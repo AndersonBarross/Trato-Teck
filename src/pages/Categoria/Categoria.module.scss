@@ -1,0 +1,7 @@
+.itens {
+    display: flex;
+    flex-wrap: wrap; // para quebrar quando fizer o resizer
+    justify-content: center;
+    gap: 50px;
+    margin: 50px 50px;
+}
